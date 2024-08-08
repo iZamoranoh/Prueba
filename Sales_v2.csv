@@ -1,0 +1,601 @@
+id_sale,date_sale,id_customer,id_region,id_country,continent,country,id_product,product_name,category,quantity,description,id_status
+1,15/12/2023,42,2,3,Europe,Brasil,13,Free Run,Free,12,Created,1001
+2,05/12/2023,29,3,4,Asia,Japan,8,React Element,React,11,Processed,1002
+3,29/10/2023,5,1,5,America,Egypt,23,Air Jordan 3,Jordan,8,Fulfilled,1003
+4,20/11/2023,30,5,10,Australia,Germany,10,SB Janoski,SB,9,Returned,1004
+5,17/12/2023,20,1,4,America,Japan,1,Air Jordan 1,Jordan,13,Cancelled,1005
+6,26/10/2023,40,3,7,Asia,New Zealand,3,Dunk Low,Dunk,3,Created,1001
+7,28/12/2023,11,3,2,Asia,United Kingdom,24,Nike x Sacai LDWaffle,Collaboration,5,Processed,1002
+8,23/10/2023,39,5,5,Australia,Egypt,24,Nike x Sacai LDWaffle,Collaboration,11,Fulfilled,1003
+9,15/11/2023,34,4,6,Africa,Australia,16,Travis Scott x Nike Air Jordan 1,Collaboration,4,Returned,1004
+10,01/11/2023,43,3,7,Asia,New Zealand,4,Air Max 90,Air Max,1,Cancelled,1005
+11,30/10/2023,1,3,10,Asia,Germany,17,Air Jordan 11,Jordan,3,Created,1001
+12,14/12/2023,1,3,10,Asia,Germany,17,Air Jordan 11,Jordan,12,Processed,1002
+13,09/11/2023,30,5,10,Australia,Germany,3,Dunk Low,Dunk,10,Fulfilled,1003
+14,27/10/2023,15,1,2,America,United Kingdom,12,Huarache,Huarache,13,Returned,1004
+15,02/12/2023,13,3,2,Asia,United Kingdom,19,Air Max 270,Air Max,9,Cancelled,1005
+16,16/11/2023,39,5,5,Australia,Egypt,13,Free Run,Free,1,Created,1001
+17,29/12/2023,14,2,1,Europe,Mexico,20,Air Max 97,Air Max,10,Processed,1002
+18,24/11/2023,41,1,6,America,Australia,17,Air Jordan 11,Jordan,7,Fulfilled,1003
+19,13/12/2023,12,5,1,Australia,Mexico,10,SB Janoski,SB,4,Returned,1004
+20,28/10/2023,48,2,4,Europe,Japan,20,Air Max 97,Air Max,4,Cancelled,1005
+21,31/10/2023,32,5,5,Australia,Egypt,12,Huarache,Huarache,11,Created,1001
+22,23/11/2023,29,3,4,Asia,Japan,9,VaporMax,VaporMax,3,Processed,1002
+23,11/12/2023,30,5,10,Australia,Germany,13,Free Run,Free,14,Fulfilled,1003
+24,20/12/2023,27,3,1,Asia,Mexico,21,Roshe Run,Roshe,10,Returned,1004
+25,03/11/2023,7,4,3,Africa,Brasil,21,Roshe Run,Roshe,14,Cancelled,1005
+26,02/11/2023,43,3,7,Asia,New Zealand,25,Air Max 95,Air Max,14,Created,1001
+27,30/12/2023,7,4,3,Africa,Brasil,5,Blazer Mid,Blazer,7,Processed,1002
+28,25/10/2023,31,4,9,Africa,South Korea,10,SB Janoski,SB,3,Fulfilled,1003
+29,08/12/2023,26,5,7,Australia,New Zealand,6,Cortez,Cortez,13,Returned,1004
+30,22/11/2023,26,5,7,Australia,New Zealand,13,Free Run,Free,14,Cancelled,1005
+31,16/12/2023,31,4,9,Africa,South Korea,16,Travis Scott x Nike Air Jordan 1,Collaboration,6,Created,1001
+32,06/11/2023,44,2,9,Europe,South Korea,2,Air Force 1,Air Force,14,Processed,1002
+33,01/12/2023,5,1,5,America,Egypt,6,Cortez,Cortez,11,Fulfilled,1003
+34,24/10/2023,2,1,7,America,New Zealand,9,VaporMax,VaporMax,2,Returned,1004
+35,07/12/2023,50,5,7,Australia,New Zealand,1,Air Jordan 1,Jordan,12,Cancelled,1005
+36,25/11/2023,9,1,9,America,South Korea,3,Dunk Low,Dunk,14,Created,1001
+37,21/10/2023,3,4,3,Africa,Brasil,21,Roshe Run,Roshe,1,Processed,1002
+38,09/12/2023,25,1,3,America,Brasil,4,Air Max 90,Air Max,1,Fulfilled,1003
+39,18/10/2023,37,4,6,Africa,Australia,9,VaporMax,VaporMax,5,Returned,1004
+40,04/12/2023,48,2,4,Europe,Japan,10,SB Janoski,SB,11,Cancelled,1005
+41,19/12/2023,33,1,3,America,Brasil,17,Air Jordan 11,Jordan,7,Created,1001
+42,22/10/2023,30,5,10,Australia,Germany,13,Free Run,Free,7,Processed,1002
+43,17/11/2023,37,4,6,Africa,Australia,16,Travis Scott x Nike Air Jordan 1,Collaboration,9,Fulfilled,1003
+44,10/12/2023,49,3,9,Asia,South Korea,9,VaporMax,VaporMax,9,Returned,1004
+45,04/11/2023,27,3,1,Asia,Mexico,10,SB Janoski,SB,14,Cancelled,1005
+46,05/11/2023,27,3,1,Asia,Mexico,13,Free Run,Free,7,Created,1001
+47,22/12/2023,20,1,4,America,Japan,19,Air Max 270,Air Max,2,Processed,1002
+48,19/10/2023,46,3,10,Asia,Germany,6,Cortez,Cortez,12,Fulfilled,1003
+49,18/12/2023,40,3,7,Asia,New Zealand,9,VaporMax,VaporMax,1,Returned,1004
+50,10/11/2023,36,1,7,America,New Zealand,23,Air Jordan 3,Jordan,14,Cancelled,1005
+51,08/11/2023,33,1,3,America,Brasil,13,Free Run,Free,3,Created,1001
+52,18/11/2023,31,4,9,Africa,South Korea,2,Air Force 1,Air Force,5,Processed,1002
+53,21/12/2023,10,4,10,Africa,Germany,20,Air Max 97,Air Max,3,Fulfilled,1003
+54,27/10/2023,47,5,3,Australia,Brasil,23,Air Jordan 3,Jordan,3,Returned,1004
+55,14/12/2023,41,1,6,America,Australia,18,Air Jordan 4,Jordan,4,Cancelled,1005
+56,20/10/2023,1,3,10,Asia,Germany,25,Air Max 95,Air Max,6,Created,1001
+57,23/12/2023,12,5,1,Australia,Mexico,17,Air Jordan 11,Jordan,12,Processed,1002
+58,28/11/2023,19,2,7,Europe,New Zealand,24,Nike x Sacai LDWaffle,Collaboration,15,Fulfilled,1003
+59,26/12/2023,46,3,10,Asia,Germany,17,Air Jordan 11,Jordan,9,Returned,1004
+60,01/11/2023,47,5,3,Australia,Brasil,25,Air Max 95,Air Max,13,Cancelled,1005
+61,08/12/2023,19,2,7,Europe,New Zealand,25,Air Max 95,Air Max,6,Created,1001
+62,30/10/2023,7,4,3,Africa,Brasil,11,Air Presto,Presto,4,Processed,1002
+63,11/12/2023,49,3,9,Asia,South Korea,2,Air Force 1,Air Force,2,Fulfilled,1003
+64,05/11/2023,31,4,9,Africa,South Korea,13,Free Run,Free,2,Returned,1004
+65,15/11/2023,18,5,10,Australia,Germany,25,Air Max 95,Air Max,2,Cancelled,1005
+66,25/10/2023,2,1,7,America,New Zealand,4,Air Max 90,Air Max,1,Created,1001
+67,18/12/2023,48,2,4,Europe,Japan,21,Roshe Run,Roshe,11,Processed,1002
+68,27/11/2023,27,3,1,Asia,Mexico,9,VaporMax,VaporMax,9,Fulfilled,1003
+69,24/10/2023,5,1,5,America,Egypt,5,Blazer Mid,Blazer,15,Returned,1004
+70,15/12/2023,31,4,9,Africa,South Korea,21,Roshe Run,Roshe,15,Cancelled,1005
+71,24/12/2023,31,4,9,Africa,South Korea,21,Roshe Run,Roshe,7,Created,1001
+72,07/11/2023,46,3,10,Asia,Germany,4,Air Max 90,Air Max,12,Processed,1002
+73,21/10/2023,15,1,2,America,United Kingdom,22,Air Max Plus,Air Max,13,Fulfilled,1003
+74,20/12/2023,14,2,1,Europe,Mexico,4,Air Max 90,Air Max,10,Returned,1004
+75,26/10/2023,6,5,4,Australia,Japan,4,Air Max 90,Air Max,15,Cancelled,1005
+76,13/11/2023,44,2,9,Europe,South Korea,16,Travis Scott x Nike Air Jordan 1,Collaboration,15,Created,1001
+77,16/11/2023,14,2,1,Europe,Mexico,17,Air Jordan 11,Jordan,4,Processed,1002
+78,05/12/2023,20,1,4,America,Japan,24,Nike x Sacai LDWaffle,Collaboration,14,Fulfilled,1003
+79,29/10/2023,6,5,4,Australia,Japan,6,Cortez,Cortez,9,Returned,1004
+80,28/12/2023,49,3,9,Asia,South Korea,10,SB Janoski,SB,4,Cancelled,1005
+81,06/11/2023,10,4,10,Africa,Germany,17,Air Jordan 11,Jordan,9,Created,1001
+82,01/12/2023,21,4,1,Africa,Mexico,18,Air Jordan 4,Jordan,3,Processed,1002
+83,22/10/2023,43,3,7,Asia,New Zealand,6,Cortez,Cortez,11,Fulfilled,1003
+84,26/11/2023,26,5,7,Australia,New Zealand,13,Free Run,Free,10,Returned,1004
+85,09/12/2023,27,3,1,Asia,Mexico,5,Blazer Mid,Blazer,14,Cancelled,1005
+86,10/11/2023,24,5,6,Australia,Australia,11,Air Presto,Presto,2,Created,1001
+87,18/10/2023,21,4,1,Africa,Mexico,22,Air Max Plus,Air Max,10,Processed,1002
+88,17/12/2023,7,4,3,Africa,Brasil,9,VaporMax,VaporMax,15,Fulfilled,1003
+89,12/11/2023,26,5,7,Australia,New Zealand,24,Nike x Sacai LDWaffle,Collaboration,5,Returned,1004
+90,23/10/2023,31,4,9,Africa,South Korea,9,VaporMax,VaporMax,14,Cancelled,1005
+91,18/12/2023,31,4,9,Africa,South Korea,9,VaporMax,VaporMax,10,Created,1001
+92,29/11/2023,27,3,1,Asia,Mexico,11,Air Presto,Presto,7,Processed,1002
+93,21/10/2023,50,5,7,Australia,New Zealand,3,Dunk Low,Dunk,1,Fulfilled,1003
+94,20/12/2023,47,5,3,Australia,Brasil,1,Air Jordan 1,Jordan,11,Returned,1004
+95,28/10/2023,8,3,7,Asia,New Zealand,18,Air Jordan 4,Jordan,3,Cancelled,1005
+96,14/12/2023,24,5,6,Australia,Australia,8,React Element,React,12,Created,1001
+97,26/10/2023,16,4,7,Africa,New Zealand,17,Air Jordan 11,Jordan,10,Processed,1002
+98,11/12/2023,23,1,5,America,Egypt,10,SB Janoski,SB,9,Fulfilled,1003
+99,17/11/2023,8,3,7,Asia,New Zealand,10,SB Janoski,SB,6,Returned,1004
+100,09/12/2023,37,4,6,Africa,Australia,22,Air Max Plus,Air Max,13,Cancelled,1005
+101,10/12/2023,30,5,10,Australia,Germany,8,React Element,React,5,Created,1001
+102,31/10/2023,19,2,7,Europe,New Zealand,8,React Element,React,14,Processed,1002
+103,21/12/2023,34,4,6,Africa,Australia,16,Travis Scott x Nike Air Jordan 1,Collaboration,13,Fulfilled,1003
+104,04/11/2023,6,5,4,Australia,Japan,23,Air Jordan 3,Jordan,7,Returned,1004
+105,16/11/2023,9,1,9,America,South Korea,11,Air Presto,Presto,12,Cancelled,1005
+106,03/12/2023,43,3,7,Asia,New Zealand,18,Air Jordan 4,Jordan,5,Created,1001
+107,29/11/2023,42,2,3,Europe,Brasil,13,Free Run,Free,3,Processed,1002
+108,27/10/2023,21,4,1,Africa,Mexico,23,Air Jordan 3,Jordan,12,Fulfilled,1003
+109,18/12/2023,37,4,6,Africa,Australia,25,Air Max 95,Air Max,5,Returned,1004
+110,25/10/2023,11,3,2,Asia,United Kingdom,4,Air Max 90,Air Max,5,Cancelled,1005
+111,12/12/2023,31,4,9,Africa,South Korea,5,Blazer Mid,Blazer,1,Created,1001
+112,03/11/2023,48,2,4,Europe,Japan,18,Air Jordan 4,Jordan,5,Processed,1002
+113,27/11/2023,3,4,3,Africa,Brasil,9,VaporMax,VaporMax,2,Fulfilled,1003
+114,22/10/2023,50,5,7,Australia,New Zealand,21,Roshe Run,Roshe,6,Returned,1004
+115,19/12/2023,42,2,3,Europe,Brasil,3,Dunk Low,Dunk,1,Cancelled,1005
+116,24/10/2023,21,4,1,Africa,Mexico,2,Air Force 1,Air Force,8,Created,1001
+117,08/12/2023,12,5,1,Australia,Mexico,23,Air Jordan 3,Jordan,1,Processed,1002
+118,23/11/2023,10,4,10,Africa,Germany,11,Air Presto,Presto,2,Fulfilled,1003
+119,20/10/2023,39,5,5,Australia,Egypt,9,VaporMax,VaporMax,6,Returned,1004
+120,14/12/2023,12,5,1,Australia,Mexico,5,Blazer Mid,Blazer,14,Cancelled,1005
+121,09/11/2023,16,4,7,Africa,New Zealand,25,Air Max 95,Air Max,8,Created,1001
+122,20/11/2023,8,3,7,Asia,New Zealand,18,Air Jordan 4,Jordan,7,Processed,1002
+123,13/12/2023,9,1,9,America,South Korea,22,Air Max Plus,Air Max,5,Fulfilled,1003
+124,26/10/2023,8,3,7,Asia,New Zealand,18,Air Jordan 4,Jordan,9,Returned,1004
+125,15/12/2023,50,5,7,Australia,New Zealand,12,Huarache,Huarache,11,Cancelled,1005
+126,07/11/2023,35,5,9,Australia,South Korea,24,Nike x Sacai LDWaffle,Collaboration,12,Created,1001
+127,29/12/2023,29,3,4,Asia,Japan,12,Huarache,Huarache,6,Processed,1002
+128,23/10/2023,41,1,6,America,Australia,25,Air Max 95,Air Max,12,Fulfilled,1003
+129,17/11/2023,15,1,2,America,United Kingdom,11,Air Presto,Presto,3,Returned,1004
+130,04/12/2023,7,4,3,Africa,Brasil,19,Air Max 270,Air Max,9,Cancelled,1005
+131,21/10/2023,7,4,3,Africa,Brasil,6,Cortez,Cortez,6,Created,1001
+132,26/12/2023,37,4,6,Africa,Australia,13,Free Run,Free,1,Processed,1002
+133,01/11/2023,6,5,4,Australia,Japan,9,VaporMax,VaporMax,4,Fulfilled,1003
+134,16/12/2023,43,3,7,Asia,New Zealand,22,Air Max Plus,Air Max,9,Returned,1004
+135,30/10/2023,14,2,1,Europe,Mexico,22,Air Max Plus,Air Max,10,Cancelled,1005
+136,10/12/2023,13,3,2,Asia,United Kingdom,21,Roshe Run,Roshe,10,Created,1001
+137,06/11/2023,9,1,9,America,South Korea,11,Air Presto,Presto,11,Processed,1002
+138,22/11/2023,10,4,10,Africa,Germany,23,Air Jordan 3,Jordan,3,Fulfilled,1003
+139,17/12/2023,40,3,7,Asia,New Zealand,21,Roshe Run,Roshe,9,Returned,1004
+140,28/10/2023,5,1,5,America,Egypt,12,Huarache,Huarache,5,Cancelled,1005
+141,08/11/2023,46,3,10,Asia,Germany,25,Air Max 95,Air Max,9,Created,1001
+142,23/12/2023,24,5,6,Australia,Australia,11,Air Presto,Presto,7,Processed,1002
+143,29/10/2023,12,5,1,Australia,Mexico,17,Air Jordan 11,Jordan,10,Fulfilled,1003
+144,20/12/2023,3,4,3,Africa,Brasil,25,Air Max 95,Air Max,3,Returned,1004
+145,18/10/2023,34,4,6,Africa,Australia,25,Air Max 95,Air Max,9,Cancelled,1005
+146,05/12/2023,8,3,7,Asia,New Zealand,16,Travis Scott x Nike Air Jordan 1,Collaboration,11,Created,1001
+147,19/10/2023,50,5,7,Australia,New Zealand,16,Travis Scott x Nike Air Jordan 1,Collaboration,9,Processed,1002
+148,02/12/2023,33,1,3,America,Brasil,25,Air Max 95,Air Max,5,Fulfilled,1003
+149,25/11/2023,13,3,2,Asia,United Kingdom,10,SB Janoski,SB,1,Returned,1004
+150,10/11/2023,46,3,10,Asia,Germany,20,Air Max 97,Air Max,8,Cancelled,1005
+151,14/12/2023,34,4,6,Africa,Australia,8,React Element,React,7,Created,1001
+152,28/10/2023,42,2,3,Europe,Brasil,25,Air Max 95,Air Max,2,Processed,1002
+153,03/12/2023,50,5,7,Australia,New Zealand,11,Air Presto,Presto,3,Fulfilled,1003
+154,20/11/2023,42,2,3,Europe,Brasil,16,Travis Scott x Nike Air Jordan 1,Collaboration,1,Returned,1004
+155,11/12/2023,2,1,7,America,New Zealand,12,Huarache,Huarache,14,Cancelled,1005
+156,31/10/2023,1,3,10,Asia,Germany,18,Air Jordan 4,Jordan,6,Created,1001
+157,16/12/2023,27,3,1,Asia,Mexico,10,SB Janoski,SB,11,Processed,1002
+158,24/10/2023,43,3,7,Asia,New Zealand,21,Roshe Run,Roshe,11,Fulfilled,1003
+159,20/12/2023,41,1,6,America,Australia,22,Air Max Plus,Air Max,10,Returned,1004
+160,14/11/2023,26,5,7,Australia,New Zealand,1,Air Jordan 1,Jordan,13,Cancelled,1005
+161,05/12/2023,12,5,1,Australia,Mexico,24,Nike x Sacai LDWaffle,Collaboration,7,Created,1001
+162,27/10/2023,44,2,9,Europe,South Korea,25,Air Max 95,Air Max,15,Processed,1002
+163,27/11/2023,16,4,7,Africa,New Zealand,2,Air Force 1,Air Force,6,Fulfilled,1003
+164,18/12/2023,40,3,7,Asia,New Zealand,8,React Element,React,13,Returned,1004
+165,26/10/2023,3,4,3,Africa,Brasil,20,Air Max 97,Air Max,10,Cancelled,1005
+166,15/12/2023,49,3,9,Asia,South Korea,2,Air Force 1,Air Force,12,Created,1001
+167,09/11/2023,7,4,3,Africa,Brasil,6,Cortez,Cortez,8,Processed,1002
+168,19/11/2023,40,3,7,Asia,New Zealand,6,Cortez,Cortez,15,Fulfilled,1003
+169,13/12/2023,1,3,10,Asia,Germany,19,Air Max 270,Air Max,1,Returned,1004
+170,30/10/2023,16,4,7,Africa,New Zealand,21,Roshe Run,Roshe,9,Cancelled,1005
+171,09/12/2023,41,1,6,America,Australia,3,Dunk Low,Dunk,13,Created,1001
+172,18/11/2023,2,1,7,America,New Zealand,19,Air Max 270,Air Max,7,Processed,1002
+173,10/12/2023,45,4,7,Africa,New Zealand,13,Free Run,Free,5,Fulfilled,1003
+174,07/11/2023,10,4,10,Africa,Germany,22,Air Max Plus,Air Max,13,Returned,1004
+175,24/12/2023,49,3,9,Asia,South Korea,18,Air Jordan 4,Jordan,2,Cancelled,1005
+176,13/11/2023,44,2,9,Europe,South Korea,3,Dunk Low,Dunk,3,Created,1001
+177,30/12/2023,35,5,9,Australia,South Korea,3,Dunk Low,Dunk,6,Processed,1002
+178,22/10/2023,32,5,5,Australia,Egypt,5,Blazer Mid,Blazer,1,Fulfilled,1003
+179,17/11/2023,13,3,2,Asia,United Kingdom,12,Huarache,Huarache,7,Returned,1004
+180,04/12/2023,9,1,9,America,South Korea,16,Travis Scott x Nike Air Jordan 1,Collaboration,1,Cancelled,1005
+181,21/10/2023,42,2,3,Europe,Brasil,19,Air Max 270,Air Max,1,Created,1001
+182,26/12/2023,12,5,1,Australia,Mexico,4,Air Max 90,Air Max,15,Processed,1002
+183,01/11/2023,41,1,6,America,Australia,23,Air Jordan 3,Jordan,14,Fulfilled,1003
+184,16/12/2023,47,5,3,Australia,Brasil,19,Air Max 270,Air Max,12,Returned,1004
+185,30/10/2023,30,5,10,Australia,Germany,2,Air Force 1,Air Force,15,Cancelled,1005
+186,10/12/2023,6,5,4,Australia,Japan,10,SB Janoski,SB,10,Created,1001
+187,06/11/2023,11,3,2,Asia,United Kingdom,6,Cortez,Cortez,7,Processed,1002
+188,22/11/2023,15,1,2,America,United Kingdom,23,Air Jordan 3,Jordan,6,Fulfilled,1003
+189,17/12/2023,47,5,3,Australia,Brasil,5,Blazer Mid,Blazer,13,Returned,1004
+190,28/10/2023,33,1,3,America,Brasil,23,Air Jordan 3,Jordan,12,Cancelled,1005
+191,08/11/2023,24,5,6,Australia,Australia,2,Air Force 1,Air Force,3,Created,1001
+192,23/12/2023,47,5,3,Australia,Brasil,16,Travis Scott x Nike Air Jordan 1,Collaboration,10,Processed,1002
+193,29/10/2023,46,3,10,Asia,Germany,11,Air Presto,Presto,15,Fulfilled,1003
+194,20/12/2023,12,5,1,Australia,Mexico,10,SB Janoski,SB,9,Returned,1004
+195,18/10/2023,30,5,10,Australia,Germany,18,Air Jordan 4,Jordan,13,Cancelled,1005
+196,05/12/2023,25,1,3,America,Brasil,10,SB Janoski,SB,13,Created,1001
+197,19/10/2023,49,3,9,Asia,South Korea,15,Off-White Nike Air Force ,Collaboration,12,Processed,1002
+198,02/12/2023,45,4,7,Africa,New Zealand,12,Huarache,Huarache,14,Fulfilled,1003
+199,25/11/2023,49,3,9,Asia,South Korea,10,SB Janoski,SB,3,Returned,1004
+200,10/11/2023,25,1,3,America,Brasil,18,Air Jordan 4,Jordan,8,Cancelled,1005
+201,14/12/2023,32,5,5,Australia,Egypt,10,SB Janoski,SB,4,Created,1001
+202,28/10/2023,48,2,4,Europe,Japan,6,Cortez,Cortez,9,Processed,1002
+203,03/12/2023,48,2,4,Europe,Japan,19,Air Max 270,Air Max,15,Fulfilled,1003
+204,20/11/2023,43,3,7,Asia,New Zealand,4,Air Max 90,Air Max,3,Returned,1004
+205,11/12/2023,19,2,7,Europe,New Zealand,13,Free Run,Free,10,Cancelled,1005
+206,31/10/2023,37,4,6,Africa,Australia,12,Huarache,Huarache,15,Created,1001
+207,16/12/2023,25,1,3,America,Brasil,1,Air Jordan 1,Jordan,3,Processed,1002
+208,24/10/2023,39,5,5,Australia,Egypt,6,Cortez,Cortez,1,Fulfilled,1003
+209,20/12/2023,5,1,5,America,Egypt,16,Travis Scott x Nike Air Jordan 1,Collaboration,2,Returned,1004
+210,14/11/2023,13,3,2,Asia,United Kingdom,6,Cortez,Cortez,13,Cancelled,1005
+211,05/12/2023,16,4,7,Africa,New Zealand,23,Air Jordan 3,Jordan,15,Created,1001
+212,27/10/2023,50,5,7,Australia,New Zealand,24,Nike x Sacai LDWaffle,Collaboration,6,Processed,1002
+213,27/11/2023,23,1,5,America,Egypt,8,React Element,React,12,Fulfilled,1003
+214,18/12/2023,9,1,9,America,South Korea,11,Air Presto,Presto,4,Returned,1004
+215,26/10/2023,44,2,9,Europe,South Korea,25,Air Max 95,Air Max,5,Cancelled,1005
+216,15/12/2023,32,5,5,Australia,Egypt,20,Air Max 97,Air Max,11,Created,1001
+217,09/11/2023,48,2,4,Europe,Japan,8,React Element,React,10,Processed,1002
+218,19/11/2023,5,1,5,America,Egypt,11,Air Presto,Presto,8,Fulfilled,1003
+219,13/12/2023,23,1,5,America,Egypt,4,Air Max 90,Air Max,2,Returned,1004
+220,30/10/2023,46,3,10,Asia,Germany,2,Air Force 1,Air Force,13,Cancelled,1005
+221,09/12/2023,6,5,4,Australia,Japan,16,Travis Scott x Nike Air Jordan 1,Collaboration,8,Created,1001
+222,18/11/2023,14,2,1,Europe,Mexico,8,React Element,React,10,Processed,1002
+223,10/12/2023,39,5,5,Australia,Egypt,18,Air Jordan 4,Jordan,5,Fulfilled,1003
+224,07/11/2023,39,5,5,Australia,Egypt,25,Air Max 95,Air Max,11,Returned,1004
+225,24/12/2023,19,2,7,Europe,New Zealand,24,Nike x Sacai LDWaffle,Collaboration,14,Cancelled,1005
+226,13/11/2023,29,3,4,Asia,Japan,21,Roshe Run,Roshe,4,Created,1001
+227,30/12/2023,16,4,7,Africa,New Zealand,17,Air Jordan 11,Jordan,5,Processed,1002
+228,22/10/2023,43,3,7,Asia,New Zealand,3,Dunk Low,Dunk,5,Fulfilled,1003
+229,17/11/2023,23,1,5,America,Egypt,6,Cortez,Cortez,7,Returned,1004
+230,04/12/2023,38,1,5,America,Egypt,25,Air Max 95,Air Max,1,Cancelled,1005
+231,21/10/2023,24,5,6,Australia,Australia,1,Air Jordan 1,Jordan,12,Created,1001
+232,26/12/2023,50,5,7,Australia,New Zealand,5,Blazer Mid,Blazer,12,Processed,1002
+233,01/11/2023,16,4,7,Africa,New Zealand,24,Nike x Sacai LDWaffle,Collaboration,13,Fulfilled,1003
+234,16/12/2023,2,1,7,America,New Zealand,1,Air Jordan 1,Jordan,8,Returned,1004
+235,30/10/2023,14,2,1,Europe,Mexico,4,Air Max 90,Air Max,6,Cancelled,1005
+236,10/12/2023,39,5,5,Australia,Egypt,18,Air Jordan 4,Jordan,6,Created,1001
+237,06/11/2023,36,1,7,America,New Zealand,2,Air Force 1,Air Force,4,Processed,1002
+238,22/11/2023,31,4,9,Africa,South Korea,18,Air Jordan 4,Jordan,11,Fulfilled,1003
+239,17/12/2023,26,5,7,Australia,New Zealand,25,Air Max 95,Air Max,14,Returned,1004
+240,28/10/2023,43,3,7,Asia,New Zealand,19,Air Max 270,Air Max,7,Cancelled,1005
+241,08/11/2023,37,4,6,Africa,Australia,11,Air Presto,Presto,9,Created,1001
+242,23/12/2023,22,3,4,Asia,Japan,11,Air Presto,Presto,15,Processed,1002
+243,29/10/2023,42,2,3,Europe,Brasil,11,Air Presto,Presto,2,Fulfilled,1003
+244,20/12/2023,29,3,4,Asia,Japan,9,VaporMax,VaporMax,5,Returned,1004
+245,18/10/2023,44,2,9,Europe,South Korea,15,Off-White Nike Air Force ,Collaboration,5,Cancelled,1005
+246,05/12/2023,21,4,1,Africa,Mexico,15,Off-White Nike Air Force ,Collaboration,5,Created,1001
+247,19/10/2023,9,1,9,America,South Korea,25,Air Max 95,Air Max,10,Processed,1002
+248,02/12/2023,15,1,2,America,United Kingdom,16,Travis Scott x Nike Air Jordan 1,Collaboration,11,Fulfilled,1003
+249,25/11/2023,8,3,7,Asia,New Zealand,25,Air Max 95,Air Max,3,Returned,1004
+250,10/11/2023,33,1,3,America,Brasil,1,Air Jordan 1,Jordan,2,Cancelled,1005
+251,14/12/2023,44,2,9,Europe,South Korea,18,Air Jordan 4,Jordan,11,Created,1001
+252,28/10/2023,32,5,5,Australia,Egypt,10,SB Janoski,SB,12,Processed,1002
+253,03/12/2023,16,4,7,Africa,New Zealand,23,Air Jordan 3,Jordan,7,Fulfilled,1003
+254,20/11/2023,49,3,9,Asia,South Korea,10,SB Janoski,SB,10,Returned,1004
+255,11/12/2023,19,2,7,Europe,New Zealand,3,Dunk Low,Dunk,5,Cancelled,1005
+256,31/10/2023,3,4,3,Africa,Brasil,8,React Element,React,1,Created,1001
+257,16/12/2023,43,3,7,Asia,New Zealand,21,Roshe Run,Roshe,13,Processed,1002
+258,24/10/2023,43,3,7,Asia,New Zealand,8,React Element,React,2,Fulfilled,1003
+259,20/12/2023,26,5,7,Australia,New Zealand,22,Air Max Plus,Air Max,13,Returned,1004
+260,14/11/2023,47,5,3,Australia,Brasil,18,Air Jordan 4,Jordan,10,Cancelled,1005
+261,05/12/2023,12,5,1,Australia,Mexico,19,Air Max 270,Air Max,3,Created,1001
+262,27/10/2023,43,3,7,Asia,New Zealand,11,Air Presto,Presto,6,Processed,1002
+263,27/11/2023,21,4,1,Africa,Mexico,17,Air Jordan 11,Jordan,12,Fulfilled,1003
+264,18/12/2023,45,4,7,Africa,New Zealand,22,Air Max Plus,Air Max,12,Returned,1004
+265,26/10/2023,7,4,3,Africa,Brasil,9,VaporMax,VaporMax,6,Cancelled,1005
+266,15/12/2023,6,5,4,Australia,Japan,12,Huarache,Huarache,7,Created,1001
+267,09/11/2023,14,2,1,Europe,Mexico,11,Air Presto,Presto,3,Processed,1002
+268,19/11/2023,15,1,2,America,United Kingdom,12,Huarache,Huarache,10,Fulfilled,1003
+269,13/12/2023,1,3,10,Asia,Germany,17,Air Jordan 11,Jordan,7,Returned,1004
+270,30/10/2023,46,3,10,Asia,Germany,5,Blazer Mid,Blazer,2,Cancelled,1005
+271,09/12/2023,33,1,3,America,Brasil,4,Air Max 90,Air Max,6,Created,1001
+272,18/11/2023,25,1,3,America,Brasil,18,Air Jordan 4,Jordan,2,Processed,1002
+273,10/12/2023,9,1,9,America,South Korea,8,React Element,React,7,Fulfilled,1003
+274,07/11/2023,26,5,7,Australia,New Zealand,15,Off-White Nike Air Force ,Collaboration,5,Returned,1004
+275,24/12/2023,42,2,3,Europe,Brasil,19,Air Max 270,Air Max,2,Cancelled,1005
+276,13/11/2023,25,1,3,America,Brasil,15,Off-White Nike Air Force ,Collaboration,2,Created,1001
+277,30/12/2023,9,1,9,America,South Korea,23,Air Jordan 3,Jordan,6,Processed,1002
+278,22/10/2023,29,3,4,Asia,Japan,11,Air Presto,Presto,2,Fulfilled,1003
+279,17/11/2023,40,3,7,Asia,New Zealand,21,Roshe Run,Roshe,6,Returned,1004
+280,04/12/2023,21,4,1,Africa,Mexico,13,Free Run,Free,9,Cancelled,1005
+281,21/10/2023,49,3,9,Asia,South Korea,3,Dunk Low,Dunk,6,Created,1001
+282,26/12/2023,7,4,3,Africa,Brasil,3,Dunk Low,Dunk,10,Processed,1002
+283,01/11/2023,13,3,2,Asia,United Kingdom,15,Off-White Nike Air Force ,Collaboration,14,Fulfilled,1003
+284,16/12/2023,11,3,2,Asia,United Kingdom,20,Air Max 97,Air Max,13,Returned,1004
+285,30/10/2023,6,5,4,Australia,Japan,8,React Element,React,10,Cancelled,1005
+286,10/12/2023,2,1,7,America,New Zealand,19,Air Max 270,Air Max,2,Created,1001
+287,06/11/2023,47,5,3,Australia,Brasil,19,Air Max 270,Air Max,5,Processed,1002
+288,22/11/2023,34,4,6,Africa,Australia,23,Air Jordan 3,Jordan,14,Fulfilled,1003
+289,17/12/2023,45,4,7,Africa,New Zealand,25,Air Max 95,Air Max,4,Returned,1004
+290,28/10/2023,12,5,1,Australia,Mexico,21,Roshe Run,Roshe,7,Cancelled,1005
+291,08/11/2023,2,1,7,America,New Zealand,11,Air Presto,Presto,15,Created,1001
+292,23/12/2023,11,3,2,Asia,United Kingdom,19,Air Max 270,Air Max,15,Processed,1002
+293,29/10/2023,8,3,7,Asia,New Zealand,16,Travis Scott x Nike Air Jordan 1,Collaboration,1,Fulfilled,1003
+294,20/12/2023,8,3,7,Asia,New Zealand,5,Blazer Mid,Blazer,13,Returned,1004
+295,18/10/2023,21,4,1,Africa,Mexico,25,Air Max 95,Air Max,7,Cancelled,1005
+296,05/12/2023,2,1,7,America,New Zealand,25,Air Max 95,Air Max,9,Created,1001
+297,19/10/2023,31,4,9,Africa,South Korea,2,Air Force 1,Air Force,13,Processed,1002
+298,02/12/2023,8,3,7,Asia,New Zealand,10,SB Janoski,SB,7,Fulfilled,1003
+299,25/11/2023,29,3,4,Asia,Japan,4,Air Max 90,Air Max,2,Returned,1004
+300,10/11/2023,24,5,6,Australia,Australia,21,Roshe Run,Roshe,4,Cancelled,1005
+301,02/01/2024,26,5,7,Australia,New Zealand,65,#N/A,#N/A,11,Created,1001
+302,04/01/2024,27,3,1,Asia,Mexico,3,Dunk Low,Dunk,12,Fulfilled,1003
+303,06/01/2024,28,3,1,Asia,Mexico,55,#N/A,#N/A,13,Processed,1002
+304,08/01/2024,29,3,4,Asia,Japan,16,Travis Scott x Nike Air Jordan 1,Collaboration,14,Cancelled,1005
+305,10/01/2024,30,5,10,Australia,Germany,7,Zoom Pegasus,Pegasus,15,Returned,1004
+306,12/01/2024,31,4,9,Africa,South Korea,44,Flyknit Racer,Flyknit,16,Created,1001
+307,14/01/2024,32,5,5,Australia,Egypt,52,#N/A,#N/A,17,Fulfilled,1003
+308,16/01/2024,33,1,3,America,Brasil,40,Air Max Tailwind IV,Air Max,18,Processed,1002
+309,18/01/2024,34,4,6,Africa,Australia,18,Air Jordan 4,Jordan,19,Cancelled,1005
+310,20/01/2024,35,5,9,Australia,South Korea,5,Blazer Mid,Blazer,20,Returned,1004
+311,22/01/2024,36,1,7,America,New Zealand,45,Air Max 720,Air Max,21,Created,1001
+312,24/01/2024,37,4,6,Africa,Australia,54,#N/A,#N/A,22,Fulfilled,1003
+313,26/01/2024,38,1,5,America,Egypt,53,#N/A,#N/A,23,Processed,1002
+314,28/01/2024,39,5,5,Australia,Egypt,57,#N/A,#N/A,24,Cancelled,1005
+315,30/01/2024,40,3,7,Asia,New Zealand,49,Jordan Delta 2,Jordan,25,Returned,1004
+316,01/02/2024,41,1,6,America,Australia,13,Free Run,Free,26,Created,1001
+317,03/02/2024,42,2,3,Europe,Brasil,56,#N/A,#N/A,27,Fulfilled,1003
+318,05/02/2024,43,3,7,Asia,New Zealand,50,ZoomX Invincible Run Flyknit,ZoomX,28,Processed,1002
+319,07/02/2024,44,2,9,Europe,South Korea,35,React Infinity Run 2,React,29,Cancelled,1005
+320,09/02/2024,45,4,7,Africa,New Zealand,20,Air Max 97,Air Max,30,Returned,1004
+321,11/02/2024,46,3,10,Asia,Germany,47,Daybreak,Daybreak,11,Created,1001
+322,13/02/2024,47,5,3,Australia,Brasil,8,React Element,React,12,Fulfilled,1003
+323,15/02/2024,48,2,4,Europe,Japan,31,Air Zoom Pegasus 38,Pegasus,13,Processed,1002
+324,17/02/2024,49,3,9,Asia,South Korea,17,Air Jordan 11,Jordan,14,Cancelled,1005
+325,19/02/2024,50,5,7,Australia,New Zealand,9,VaporMax,VaporMax,15,Returned,1004
+326,21/02/2024,26,5,7,Australia,New Zealand,57,#N/A,#N/A,16,Created,1001
+327,23/02/2024,27,3,1,Asia,Mexico,7,Zoom Pegasus,Pegasus,17,Fulfilled,1003
+328,25/02/2024,28,3,1,Asia,Mexico,40,Air Max Tailwind IV,Air Max,18,Processed,1002
+329,27/02/2024,29,3,4,Asia,Japan,16,Travis Scott x Nike Air Jordan 1,Collaboration,19,Cancelled,1005
+330,29/02/2024,30,5,10,Australia,Germany,47,Daybreak,Daybreak,20,Returned,1004
+331,01/03/2024,31,4,9,Africa,South Korea,30,Air Zoom Alphafly NEXT%,Air Zoom,21,Created,1001
+332,03/03/2024,32,5,5,Australia,Egypt,8,React Element,React,22,Fulfilled,1003
+333,05/03/2024,33,1,3,America,Brasil,5,Blazer Mid,Blazer,23,Processed,1002
+334,07/03/2024,34,4,6,Africa,Australia,36,Air Max 2090,Air Max,24,Cancelled,1005
+335,09/03/2024,35,5,9,Australia,South Korea,51,#N/A,#N/A,25,Returned,1004
+336,11/03/2024,36,1,7,America,New Zealand,47,Daybreak,Daybreak,26,Created,1001
+337,13/03/2024,37,4,6,Africa,Australia,49,Jordan Delta 2,Jordan,27,Fulfilled,1003
+338,15/03/2024,38,1,5,America,Egypt,62,#N/A,#N/A,28,Processed,1002
+339,17/03/2024,39,5,5,Australia,Egypt,19,Air Max 270,Air Max,29,Cancelled,1005
+340,19/03/2024,40,3,7,Asia,New Zealand,65,#N/A,#N/A,30,Returned,1004
+341,21/03/2024,41,1,6,America,Australia,47,Daybreak,Daybreak,11,Created,1001
+342,23/03/2024,42,2,3,Europe,Brasil,6,Cortez,Cortez,12,Fulfilled,1003
+343,25/03/2024,43,3,7,Asia,New Zealand,15,Off-White Nike Air Force ,Collaboration,13,Processed,1002
+344,27/03/2024,44,2,9,Europe,South Korea,35,React Infinity Run 2,React,14,Cancelled,1005
+345,29/03/2024,45,4,7,Africa,New Zealand,54,#N/A,#N/A,15,Returned,1004
+346,01/01/2024,46,3,10,Asia,Germany,31,Air Zoom Pegasus 38,Pegasus,16,Created,1001
+347,03/01/2024,47,5,3,Australia,Brasil,5,Blazer Mid,Blazer,17,Fulfilled,1003
+348,05/01/2024,48,2,4,Europe,Japan,63,#N/A,#N/A,18,Processed,1002
+349,07/01/2024,49,3,9,Asia,South Korea,26,LeBron 18,LeBron,19,Cancelled,1005
+350,09/01/2024,50,5,7,Australia,New Zealand,65,#N/A,#N/A,20,Returned,1004
+351,11/01/2024,26,5,7,Australia,New Zealand,50,ZoomX Invincible Run Flyknit,ZoomX,21,Created,1001
+352,13/01/2024,27,3,1,Asia,Mexico,14,ACG Terra Gobe,ACG,22,Fulfilled,1003
+353,15/01/2024,28,3,1,Asia,Mexico,30,Air Zoom Alphafly NEXT%,Air Zoom,23,Processed,1002
+354,17/01/2024,29,3,4,Asia,Japan,31,Air Zoom Pegasus 38,Pegasus,24,Cancelled,1005
+355,19/01/2024,30,5,10,Australia,Germany,51,#N/A,#N/A,25,Returned,1004
+356,21/01/2024,31,4,9,Africa,South Korea,23,Air Jordan 3,Jordan,26,Created,1001
+357,23/01/2024,32,5,5,Australia,Egypt,57,#N/A,#N/A,27,Fulfilled,1003
+358,25/01/2024,33,1,3,America,Brasil,39,Blazer Low '77,Blazer,28,Processed,1002
+359,27/01/2024,34,4,6,Africa,Australia,1,Air Jordan 1,Jordan,29,Cancelled,1005
+360,29/01/2024,35,5,9,Australia,South Korea,30,Air Zoom Alphafly NEXT%,Air Zoom,30,Returned,1004
+361,01/02/2024,36,1,7,America,New Zealand,28,Zoom Freak 2,Zoom Freak,11,Created,1001
+362,03/02/2024,37,4,6,Africa,Australia,5,Blazer Mid,Blazer,12,Fulfilled,1003
+363,05/02/2024,38,1,5,America,Egypt,64,#N/A,#N/A,13,Processed,1002
+364,07/02/2024,39,5,5,Australia,Egypt,56,#N/A,#N/A,14,Cancelled,1005
+365,09/02/2024,40,3,7,Asia,New Zealand,34,Metcon 7,Metcon,15,Returned,1004
+366,11/02/2024,41,1,6,America,Australia,9,VaporMax,VaporMax,16,Created,1001
+367,13/02/2024,42,2,3,Europe,Brasil,60,#N/A,#N/A,17,Fulfilled,1003
+368,15/02/2024,43,3,7,Asia,New Zealand,57,#N/A,#N/A,18,Processed,1002
+369,17/02/2024,44,2,9,Europe,South Korea,63,#N/A,#N/A,19,Cancelled,1005
+370,19/02/2024,45,4,7,Africa,New Zealand,9,VaporMax,VaporMax,20,Returned,1004
+371,21/02/2024,46,3,10,Asia,Germany,47,Daybreak,Daybreak,21,Created,1001
+372,23/02/2024,47,5,3,Australia,Brasil,38,Free RN 5.0,Free,22,Fulfilled,1003
+373,25/02/2024,48,2,4,Europe,Japan,20,Air Max 97,Air Max,23,Processed,1002
+374,27/02/2024,49,3,9,Asia,South Korea,12,Huarache,Huarache,24,Cancelled,1005
+375,29/02/2024,50,5,7,Australia,New Zealand,61,#N/A,#N/A,25,Returned,1004
+376,01/03/2024,26,5,7,Australia,New Zealand,57,#N/A,#N/A,26,Created,1001
+377,03/03/2024,27,3,1,Asia,Mexico,18,Air Jordan 4,Jordan,27,Fulfilled,1003
+378,05/03/2024,28,3,1,Asia,Mexico,52,#N/A,#N/A,28,Processed,1002
+379,07/03/2024,29,3,4,Asia,Japan,24,Nike x Sacai LDWaffle,Collaboration,29,Cancelled,1005
+380,09/03/2024,30,5,10,Australia,Germany,45,Air Max 720,Air Max,30,Returned,1004
+381,11/03/2024,31,4,9,Africa,South Korea,20,Air Max 97,Air Max,11,Created,1001
+382,13/03/2024,32,5,5,Australia,Egypt,43,SB Dunk Low,SB,12,Fulfilled,1003
+383,15/03/2024,33,1,3,America,Brasil,63,#N/A,#N/A,13,Processed,1002
+384,17/03/2024,34,4,6,Africa,Australia,53,#N/A,#N/A,14,Cancelled,1005
+385,19/03/2024,35,5,9,Australia,South Korea,8,React Element,React,15,Returned,1004
+386,21/03/2024,36,1,7,America,New Zealand,29,PG 5,PG,16,Created,1001
+387,23/03/2024,37,4,6,Africa,Australia,60,#N/A,#N/A,17,Fulfilled,1003
+388,25/03/2024,38,1,5,America,Egypt,48,Space Hippie 01,Space Hippie,18,Processed,1002
+389,27/03/2024,39,5,5,Australia,Egypt,1,Air Jordan 1,Jordan,19,Cancelled,1005
+390,29/03/2024,40,3,7,Asia,New Zealand,63,#N/A,#N/A,20,Returned,1004
+391,01/01/2024,41,1,6,America,Australia,27,Kyrie 7,Kyrie,21,Created,1001
+392,03/01/2024,42,2,3,Europe,Brasil,12,Huarache,Huarache,22,Fulfilled,1003
+393,05/01/2024,43,3,7,Asia,New Zealand,46,Air Zoom Pegasus Turbo 2,Turbo,23,Processed,1002
+394,07/01/2024,44,2,9,Europe,South Korea,25,Air Max 95,Air Max,24,Cancelled,1005
+395,09/01/2024,45,4,7,Africa,New Zealand,1,Air Jordan 1,Jordan,25,Returned,1004
+396,11/01/2024,46,3,10,Asia,Germany,47,Daybreak,Daybreak,26,Created,1001
+397,13/01/2024,47,5,3,Australia,Brasil,18,Air Jordan 4,Jordan,27,Fulfilled,1003
+398,15/01/2024,48,2,4,Europe,Japan,6,Cortez,Cortez,28,Processed,1002
+399,17/01/2024,49,3,9,Asia,South Korea,34,Metcon 7,Metcon,29,Cancelled,1005
+400,19/01/2024,50,5,7,Australia,New Zealand,19,Air Max 270,Air Max,30,Returned,1004
+401,21/01/2024,26,5,7,Australia,New Zealand,22,Air Max Plus,Air Max,11,Created,1001
+402,23/01/2024,27,3,1,Asia,Mexico,46,Air Zoom Pegasus Turbo 2,Turbo,12,Fulfilled,1003
+403,25/01/2024,28,3,1,Asia,Mexico,51,#N/A,#N/A,13,Processed,1002
+404,27/01/2024,29,3,4,Asia,Japan,34,Metcon 7,Metcon,14,Cancelled,1005
+405,29/01/2024,30,5,10,Australia,Germany,17,Air Jordan 11,Jordan,15,Returned,1004
+406,31/01/2024,31,4,9,Africa,South Korea,47,Daybreak,Daybreak,16,Created,1001
+407,02/02/2024,32,5,5,Australia,Egypt,45,Air Max 720,Air Max,17,Fulfilled,1003
+408,04/02/2024,33,1,3,America,Brasil,38,Free RN 5.0,Free,18,Processed,1002
+409,06/02/2024,34,4,6,Africa,Australia,22,Air Max Plus,Air Max,19,Cancelled,1005
+410,08/02/2024,35,5,9,Australia,South Korea,9,VaporMax,VaporMax,20,Returned,1004
+411,10/02/2024,36,1,7,America,New Zealand,24,Nike x Sacai LDWaffle,Collaboration,21,Created,1001
+412,12/02/2024,37,4,6,Africa,Australia,15,Off-White Nike Air Force ,Collaboration,22,Fulfilled,1003
+413,14/02/2024,38,1,5,America,Egypt,64,#N/A,#N/A,23,Processed,1002
+414,16/02/2024,39,5,5,Australia,Egypt,50,ZoomX Invincible Run Flyknit,ZoomX,24,Cancelled,1005
+415,18/02/2024,40,3,7,Asia,New Zealand,47,Daybreak,Daybreak,25,Returned,1004
+416,20/02/2024,41,1,6,America,Australia,63,#N/A,#N/A,26,Created,1001
+417,22/02/2024,42,2,3,Europe,Brasil,22,Air Max Plus,Air Max,27,Fulfilled,1003
+418,24/02/2024,43,3,7,Asia,New Zealand,27,Kyrie 7,Kyrie,28,Processed,1002
+419,26/02/2024,44,2,9,Europe,South Korea,34,Metcon 7,Metcon,29,Cancelled,1005
+420,28/02/2024,45,4,7,Africa,New Zealand,8,React Element,React,30,Returned,1004
+421,01/03/2024,46,3,10,Asia,Germany,35,React Infinity Run 2,React,11,Created,1001
+422,03/03/2024,47,5,3,Australia,Brasil,33,Air Zoom Structure 24,Structure,12,Fulfilled,1003
+423,05/03/2024,48,2,4,Europe,Japan,41,ZoomX Vaporfly NEXT%,ZoomX,13,Processed,1002
+424,07/03/2024,49,3,9,Asia,South Korea,60,#N/A,#N/A,14,Cancelled,1005
+425,09/03/2024,50,5,7,Australia,New Zealand,50,ZoomX Invincible Run Flyknit,ZoomX,15,Returned,1004
+426,11/03/2024,26,5,7,Australia,New Zealand,63,#N/A,#N/A,16,Created,1001
+427,13/03/2024,27,3,1,Asia,Mexico,60,#N/A,#N/A,17,Fulfilled,1003
+428,15/03/2024,28,3,1,Asia,Mexico,46,Air Zoom Pegasus Turbo 2,Turbo,18,Processed,1002
+429,17/03/2024,29,3,4,Asia,Japan,20,Air Max 97,Air Max,19,Cancelled,1005
+430,19/03/2024,30,5,10,Australia,Germany,34,Metcon 7,Metcon,20,Returned,1004
+431,21/03/2024,31,4,9,Africa,South Korea,29,PG 5,PG,21,Created,1001
+432,23/03/2024,32,5,5,Australia,Egypt,65,#N/A,#N/A,22,Fulfilled,1003
+433,25/03/2024,33,1,3,America,Brasil,33,Air Zoom Structure 24,Structure,23,Processed,1002
+434,27/03/2024,34,4,6,Africa,Australia,26,LeBron 18,LeBron,24,Cancelled,1005
+435,29/03/2024,35,5,9,Australia,South Korea,29,PG 5,PG,25,Returned,1004
+436,01/01/2024,36,1,7,America,New Zealand,40,Air Max Tailwind IV,Air Max,26,Created,1001
+437,03/01/2024,37,4,6,Africa,Australia,61,#N/A,#N/A,27,Fulfilled,1003
+438,05/01/2024,38,1,5,America,Egypt,41,ZoomX Vaporfly NEXT%,ZoomX,28,Processed,1002
+439,07/01/2024,39,5,5,Australia,Egypt,12,Huarache,Huarache,29,Cancelled,1005
+440,09/01/2024,40,3,7,Asia,New Zealand,14,ACG Terra Gobe,ACG,30,Returned,1004
+441,11/01/2024,41,1,6,America,Australia,52,#N/A,#N/A,11,Created,1001
+442,13/01/2024,42,2,3,Europe,Brasil,50,ZoomX Invincible Run Flyknit,ZoomX,12,Fulfilled,1003
+443,15/01/2024,43,3,7,Asia,New Zealand,18,Air Jordan 4,Jordan,13,Processed,1002
+444,17/01/2024,44,2,9,Europe,South Korea,48,Space Hippie 01,Space Hippie,14,Cancelled,1005
+445,19/01/2024,45,4,7,Africa,New Zealand,18,Air Jordan 4,Jordan,15,Returned,1004
+446,21/01/2024,46,3,10,Asia,Germany,18,Air Jordan 4,Jordan,16,Created,1001
+447,23/01/2024,47,5,3,Australia,Brasil,26,LeBron 18,LeBron,17,Fulfilled,1003
+448,25/01/2024,48,2,4,Europe,Japan,4,Air Max 90,Air Max,18,Processed,1002
+449,27/01/2024,49,3,9,Asia,South Korea,34,Metcon 7,Metcon,19,Cancelled,1005
+450,29/01/2024,50,5,7,Australia,New Zealand,2,Air Force 1,Air Force,20,Returned,1004
+451,11/11/2023,18,5,10,Australia,Germany,13,Free Run,Free,10,Processed,1002
+452,22/03/2024,35,5,9,Australia,South Korea,33,Air Zoom Structure 24,Structure,8,Cancelled,1005
+453,15/12/2023,47,5,3,Australia,Brasil,4,Air Max 90,Air Max,27,Created,1001
+454,02/01/2024,12,5,1,Australia,Mexico,32,Infinity Run Flyknit,Flyknit,17,Returned,1004
+455,08/10/2023,26,5,7,Australia,New Zealand,5,Blazer Mid,Blazer,6,Fulfilled,1003
+456,19/11/2023,44,2,9,Europe,South Korea,61,#N/A,#N/A,14,Processed,1002
+457,03/03/2024,41,1,6,America,Australia,35,React Infinity Run 2,React,25,Returned,1004
+458,21/02/2024,38,1,5,America,Egypt,27,Kyrie 7,Kyrie,12,Cancelled,1005
+459,12/01/2024,30,5,10,Australia,Germany,60,#N/A,#N/A,3,Created,1001
+460,14/10/2023,27,3,1,Asia,Mexico,5,Blazer Mid,Blazer,22,Fulfilled,1003
+461,09/11/2023,40,3,7,Asia,New Zealand,2,Air Force 1,Air Force,5,Processed,1002
+462,29/01/2024,32,5,5,Australia,Egypt,28,Zoom Freak 2,Zoom Freak,16,Cancelled,1005
+463,25/12/2023,24,5,6,Australia,Australia,41,ZoomX Vaporfly NEXT%,ZoomX,11,Returned,1004
+464,18/01/2024,49,3,9,Asia,South Korea,44,Flyknit Racer,Flyknit,20,Created,1001
+465,02/02/2024,19,2,7,Europe,New Zealand,50,ZoomX Invincible Run Flyknit,ZoomX,2,Fulfilled,1003
+466,07/03/2024,16,4,7,Africa,New Zealand,35,React Infinity Run 2,React,24,Cancelled,1005
+467,20/10/2023,22,3,4,Asia,Japan,52,#N/A,#N/A,30,Processed,1002
+468,13/12/2023,37,4,6,Africa,Australia,23,Air Jordan 3,Jordan,7,Returned,1004
+469,01/01/2024,31,4,9,Africa,South Korea,13,Free Run,Free,15,Created,1001
+470,28/02/2024,23,1,5,America,Egypt,27,Kyrie 7,Kyrie,21,Cancelled,1005
+471,09/12/2023,14,2,1,Europe,Mexico,28,Zoom Freak 2,Zoom Freak,9,Fulfilled,1003
+472,17/11/2023,45,4,7,Africa,New Zealand,52,#N/A,#N/A,26,Processed,1002
+473,26/01/2024,28,3,1,Asia,Mexico,19,Air Max 270,Air Max,8,Returned,1004
+474,11/03/2024,13,3,2,Asia,United Kingdom,41,ZoomX Vaporfly NEXT%,ZoomX,13,Cancelled,1005
+475,30/10/2023,46,3,10,Asia,Germany,19,Air Max 270,Air Max,18,Processed,1002
+476,19/01/2024,39,5,5,Australia,Egypt,63,#N/A,#N/A,4,Created,1001
+477,02/12/2023,21,4,1,Africa,Mexico,46,Air Zoom Pegasus Turbo 2,Turbo,29,Fulfilled,1003
+478,15/03/2024,25,1,3,America,Brasil,44,Flyknit Racer,Flyknit,23,Cancelled,1005
+479,09/10/2023,33,1,3,America,Brasil,64,#N/A,#N/A,12,Processed,1002
+480,06/01/2024,50,5,7,Australia,New Zealand,33,Air Zoom Structure 24,Structure,7,Returned,1004
+481,12/02/2024,20,1,4,America,Japan,58,#N/A,#N/A,30,Cancelled,1005
+482,04/11/2023,10,4,10,Africa,Germany,52,#N/A,#N/A,16,Created,1001
+483,22/12/2023,43,3,7,Asia,New Zealand,43,SB Dunk Low,SB,19,Fulfilled,1003
+484,11/01/2024,17,2,3,Europe,Brasil,33,Air Zoom Structure 24,Structure,6,Returned,1004
+485,03/03/2024,29,3,4,Asia,Japan,24,Nike x Sacai LDWaffle,Collaboration,13,Processed,1002
+486,27/12/2023,48,2,4,Europe,Japan,65,#N/A,#N/A,21,Cancelled,1005
+487,10/01/2024,26,5,7,Australia,New Zealand,46,Air Zoom Pegasus Turbo 2,Turbo,25,Fulfilled,1003
+488,18/03/2024,12,5,1,Australia,Mexico,17,Air Jordan 11,Jordan,5,Processed,1002
+489,14/11/2023,41,1,6,America,Australia,34,Metcon 7,Metcon,8,Returned,1004
+490,22/01/2024,35,5,9,Australia,South Korea,19,Air Max 270,Air Max,10,Created,1001
+491,30/03/2024,24,5,6,Australia,Australia,2,Air Force 1,Air Force,19,Cancelled,1005
+492,08/10/2023,32,5,5,Australia,Egypt,21,Roshe Run,Roshe,23,Returned,1004
+493,19/12/2023,23,1,5,America,Egypt,20,Air Max 97,Air Max,4,Processed,1002
+494,07/02/2024,18,5,10,Australia,Germany,2,Air Force 1,Air Force,6,Fulfilled,1003
+495,11/03/2024,20,1,4,America,Japan,2,Air Force 1,Air Force,15,Cancelled,1005
+496,25/01/2024,16,4,7,Africa,New Zealand,19,Air Max 270,Air Max,11,Processed,1002
+497,13/11/2023,14,2,1,Europe,Mexico,34,Metcon 7,Metcon,17,Returned,1004
+498,22/02/2024,29,3,4,Asia,Japan,29,PG 5,PG,26,Fulfilled,1003
+499,09/01/2024,27,3,1,Asia,Mexico,21,Roshe Run,Roshe,22,Cancelled,1005
+500,01/10/2023,33,1,3,America,Brasil,53,#N/A,#N/A,9,Processed,1002
+501,17/02/2024,46,3,10,Asia,Germany,50,ZoomX Invincible Run Flyknit,ZoomX,8,Cancelled,1005
+502,05/12/2023,31,4,9,Africa,South Korea,9,VaporMax,VaporMax,12,Created,1001
+503,11/01/2024,22,3,4,Asia,Japan,6,Cortez,Cortez,23,Returned,1004
+504,24/03/2024,19,2,7,Europe,New Zealand,21,Roshe Run,Roshe,7,Processed,1002
+505,06/11/2023,40,3,7,Asia,New Zealand,38,Free RN 5.0,Free,4,Cancelled,1005
+506,02/02/2024,38,1,5,America,Egypt,11,Air Presto,Presto,18,Created,1001
+507,27/12/2023,14,2,1,Europe,Mexico,25,Air Max 95,Air Max,15,Fulfilled,1003
+508,03/01/2024,24,5,6,Australia,Australia,64,#N/A,#N/A,11,Returned,1004
+509,11/12/2023,49,3,9,Asia,South Korea,55,#N/A,#N/A,20,Processed,1002
+510,22/02/2024,17,2,3,Europe,Brasil,43,SB Dunk Low,SB,30,Cancelled,1005
+511,09/03/2024,25,1,3,America,Brasil,26,LeBron 18,LeBron,10,Created,1001
+512,12/01/2024,28,3,1,Asia,Mexico,18,Air Jordan 4,Jordan,26,Returned,1004
+513,30/10/2023,37,4,6,Africa,Australia,17,Air Jordan 11,Jordan,7,Fulfilled,1003
+514,21/12/2023,42,2,3,Europe,Brasil,52,#N/A,#N/A,13,Processed,1002
+515,01/02/2024,16,4,7,Africa,New Zealand,40,Air Max Tailwind IV,Air Max,5,Cancelled,1005
+516,12/03/2024,39,5,5,Australia,Egypt,57,#N/A,#N/A,12,Returned,1004
+517,07/11/2023,44,2,9,Europe,South Korea,35,React Infinity Run 2,React,8,Processed,1002
+518,19/12/2023,31,4,9,Africa,South Korea,42,Waffle Racer,Waffle,9,Fulfilled,1003
+519,02/01/2024,22,3,4,Asia,Japan,57,#N/A,#N/A,27,Cancelled,1005
+520,25/02/2024,16,4,7,Africa,New Zealand,61,#N/A,#N/A,6,Returned,1004
+521,13/03/2024,48,2,4,Europe,Japan,48,Space Hippie 01,Space Hippie,23,Processed,1002
+522,30/10/2023,35,5,9,Australia,South Korea,48,Space Hippie 01,Space Hippie,18,Created,1001
+523,11/01/2024,26,5,7,Australia,New Zealand,29,PG 5,PG,21,Returned,1004
+524,08/12/2023,42,2,3,Europe,Brasil,34,Metcon 7,Metcon,30,Cancelled,1005
+525,29/11/2023,19,2,7,Europe,New Zealand,65,#N/A,#N/A,14,Processed,1002
+526,02/02/2024,28,3,1,Asia,Mexico,56,#N/A,#N/A,17,Returned,1004
+527,21/01/2024,33,1,3,America,Brasil,60,#N/A,#N/A,8,Cancelled,1005
+528,05/12/2023,39,5,5,Australia,Egypt,16,Travis Scott x Nike Air Jordan 1,Collaboration,19,Created,1001
+529,16/03/2024,40,3,7,Asia,New Zealand,39,Blazer Low '77,Blazer,13,Processed,1002
+530,23/10/2023,48,2,4,Europe,Japan,53,#N/A,#N/A,12,Returned,1004
+531,11/12/2023,19,2,7,Europe,New Zealand,36,Air Max 2090,Air Max,20,Fulfilled,1003
+532,15/01/2024,37,4,6,Africa,Australia,13,Free Run,Free,9,Cancelled,1005
+533,03/03/2024,41,1,6,America,Australia,46,Air Zoom Pegasus Turbo 2,Turbo,26,Processed,1002
+534,28/11/2023,22,3,4,Asia,Japan,47,Daybreak,Daybreak,14,Returned,1004
+535,09/01/2024,34,4,6,Africa,Australia,60,#N/A,#N/A,21,Cancelled,1005
+536,12/02/2024,26,5,7,Australia,New Zealand,10,SB Janoski,SB,30,Fulfilled,1003
+537,20/11/2023,14,2,1,Europe,Mexico,23,Air Jordan 3,Jordan,8,Returned,1004
+538,07/03/2024,19,2,7,Europe,New Zealand,17,Air Jordan 11,Jordan,13,Processed,1002
+539,30/01/2024,28,3,1,Asia,Mexico,4,Air Max 90,Air Max,18,Cancelled,1005
+540,13/10/2023,39,5,5,Australia,Egypt,50,ZoomX Invincible Run Flyknit,ZoomX,7,Returned,1004
+541,22/02/2024,25,1,3,America,Brasil,54,#N/A,#N/A,21,Created,1001
+542,05/11/2023,44,2,9,Europe,South Korea,18,Air Jordan 4,Jordan,12,Cancelled,1005
+543,18/01/2024,12,5,1,Australia,Mexico,53,#N/A,#N/A,15,Processed,1002
+544,03/02/2024,29,3,4,Asia,Japan,6,Cortez,Cortez,24,Returned,1004
+545,21/03/2024,17,2,3,Europe,Brasil,1,Air Jordan 1,Jordan,19,Created,1001
+546,02/12/2023,32,5,5,Australia,Egypt,55,#N/A,#N/A,22,Cancelled,1005
+547,14/03/2024,41,1,6,America,Australia,23,Air Jordan 3,Jordan,11,Processed,1002
+548,11/01/2024,38,1,5,America,Egypt,42,Waffle Racer,Waffle,14,Returned,1004
+549,27/12/2023,25,1,3,America,Brasil,65,#N/A,#N/A,30,Fulfilled,1003
+550,30/10/2023,49,3,9,Asia,South Korea,38,Free RN 5.0,Free,16,Created,1001
+551,08/12/2023,17,2,3,Europe,Brasil,14,ACG Terra Gobe,ACG,25,Returned,1004
+552,24/01/2024,31,4,9,Africa,South Korea,16,Travis Scott x Nike Air Jordan 1,Collaboration,27,Cancelled,1005
+553,15/03/2024,28,3,1,Asia,Mexico,22,Air Max Plus,Air Max,9,Processed,1002
+554,01/11/2023,36,1,7,America,New Zealand,23,Air Jordan 3,Jordan,22,Returned,1004
+555,13/12/2023,23,1,5,America,Egypt,47,Daybreak,Daybreak,15,Cancelled,1005
+556,22/01/2024,14,2,1,Europe,Mexico,10,SB Janoski,SB,30,Fulfilled,1003
+557,09/10/2023,41,1,6,America,Australia,9,VaporMax,VaporMax,13,Processed,1002
+558,06/11/2023,35,5,9,Australia,South Korea,49,Jordan Delta 2,Jordan,25,Returned,1004
+559,30/12/2023,49,3,9,Asia,South Korea,44,Flyknit Racer,Flyknit,7,Cancelled,1005
+560,15/01/2024,28,3,1,Asia,Mexico,34,Metcon 7,Metcon,24,Created,1001
+561,07/11/2023,24,5,6,Australia,Australia,42,Waffle Racer,Waffle,19,Fulfilled,1003
+562,19/02/2024,36,1,7,America,New Zealand,62,#N/A,#N/A,8,Cancelled,1005
+563,03/12/2023,27,3,1,Asia,Mexico,62,#N/A,#N/A,12,Returned,1004
+564,18/03/2024,22,3,4,Asia,Japan,29,PG 5,PG,14,Processed,1002
+565,01/02/2024,33,1,3,America,Brasil,16,Travis Scott x Nike Air Jordan 1,Collaboration,11,Cancelled,1005
+566,10/12/2023,17,2,3,Europe,Brasil,25,Air Max 95,Air Max,16,Returned,1004
+567,23/01/2024,40,3,7,Asia,New Zealand,30,Air Zoom Alphafly NEXT%,Air Zoom,19,Created,1001
+568,07/11/2023,29,3,4,Asia,Japan,20,Air Max 97,Air Max,25,Cancelled,1005
+569,22/12/2023,14,2,1,Europe,Mexico,27,Kyrie 7,Kyrie,10,Fulfilled,1003
+570,18/02/2024,21,4,1,Africa,Mexico,5,Blazer Mid,Blazer,27,Returned,1004
+571,03/03/2024,39,5,5,Australia,Egypt,33,Air Zoom Structure 24,Structure,23,Cancelled,1005
+572,25/01/2024,28,3,1,Asia,Mexico,21,Roshe Run,Roshe,20,Processed,1002
+573,10/12/2023,37,4,6,Africa,Australia,24,Nike x Sacai LDWaffle,Collaboration,11,Returned,1004
+574,17/01/2024,43,3,7,Asia,New Zealand,46,Air Zoom Pegasus Turbo 2,Turbo,6,Cancelled,1005
+575,29/03/2024,14,2,1,Europe,Mexico,27,Kyrie 7,Kyrie,12,Fulfilled,1003
+576,01/11/2023,20,1,4,America,Japan,32,Infinity Run Flyknit,Flyknit,26,Processed,1002
+577,12/03/2024,30,5,10,Australia,Germany,2,Air Force 1,Air Force,15,Returned,1004
+578,23/12/2023,32,5,5,Australia,Egypt,23,Air Jordan 3,Jordan,19,Cancelled,1005
+579,09/02/2024,41,1,6,America,Australia,41,ZoomX Vaporfly NEXT%,ZoomX,8,Processed,1002
+580,20/03/2024,29,3,4,Asia,Japan,3,Dunk Low,Dunk,27,Cancelled,1005
+581,15/12/2023,26,5,7,Australia,New Zealand,53,#N/A,#N/A,23,Fulfilled,1003
+582,07/01/2024,38,1,5,America,Egypt,61,#N/A,#N/A,14,Processed,1002
+583,02/10/2023,21,4,1,Africa,Mexico,64,#N/A,#N/A,12,Returned,1004
+584,18/02/2024,22,3,4,Asia,Japan,9,VaporMax,VaporMax,10,Created,1001
+585,05/03/2024,32,5,5,Australia,Egypt,42,Waffle Racer,Waffle,26,Cancelled,1005
+586,28/01/2024,31,4,9,Africa,South Korea,28,Zoom Freak 2,Zoom Freak,21,Returned,1004
+587,12/11/2023,43,3,7,Asia,New Zealand,52,#N/A,#N/A,19,Processed,1002
+588,15/12/2023,27,3,1,Asia,Mexico,22,Air Max Plus,Air Max,16,Cancelled,1005
+589,23/03/2024,22,3,4,Asia,Japan,62,#N/A,#N/A,8,Created,1001
+590,10/02/2024,38,1,5,America,Egypt,61,#N/A,#N/A,27,Returned,1004
+591,19/03/2024,41,1,6,America,Australia,62,#N/A,#N/A,15,Cancelled,1005
+592,11/01/2024,36,1,7,America,New Zealand,56,#N/A,#N/A,9,Fulfilled,1003
+593,08/11/2023,19,2,7,Europe,New Zealand,56,#N/A,#N/A,22,Cancelled,1005
+594,02/01/2024,32,5,5,Australia,Egypt,55,#N/A,#N/A,12,Returned,1004
+595,21/02/2024,24,5,6,Australia,Australia,25,Air Max 95,Air Max,23,Processed,1002
+596,14/12/2023,27,3,1,Asia,Mexico,52,#N/A,#N/A,30,Fulfilled,1003
+597,03/02/2024,22,3,4,Asia,Japan,9,VaporMax,VaporMax,11,Cancelled,1005
+598,17/01/2024,31,4,9,Africa,South Korea,63,#N/A,#N/A,6,Processed,1002
+599,11/03/2024,20,1,4,America,Japan,50,ZoomX Invincible Run Flyknit,ZoomX,14,Returned,1004
+600,29/12/2023,34,4,6,Africa,Australia,50,ZoomX Invincible Run Flyknit,ZoomX,19,Cancelled,1005
